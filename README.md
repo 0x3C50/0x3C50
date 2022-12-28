@@ -3,5 +3,5 @@ I am 0x150, my username is 0x3C50 because [my old one](https://github.com/0x150)
 
 Anyways, I enjoy writing code, so I do just that. Feel free to look at my repositories or organisations, I'm sure you'll find something.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=0x3C50&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=0x3C50&theme=transparent&hide_border=true&layout=compact&langs_count=10&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api?username=0x3C50&show_icons=true&theme=transparent&hide_border=true" height="170px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x3C50&theme=transparent&hide_border=true&layout=compact&langs_count=10&hide=css" height="170px"></p>
