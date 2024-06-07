@@ -8,5 +8,5 @@ I've written a lot of software over the last few years, I'm sure you'll find som
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x3C50&theme=transparent&hide_border=true&layout=compact&langs_count=10&hide=css" height="192px"></p>
 
 ```math
-\ce{$\unicode[guh;pointer-events:none;z-index:-10;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:0.5;background-color:red;background-image:url(https://c.tenor.com/fUdfUhWriSMAAAAd/tenor.gif);background-size:cover;]{0}$}
+\ce{$\unicode[guh;pointer-events:none;z-index:-10;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:0.5;background-color:red;background-image:url(https://github.com/0x3C50/0x3C50/blob/master/download-17.png?raw=true);background-size:cover;]{0}$}
 ```
